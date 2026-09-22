@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "auth-background",
+      "description": "Abstract financial background for auth pages",
+      "imageUrl": "https://images.unsplash.com/photo-1608249889684-e91ddbdd47cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmaW5hbmNlJTIwYWJzdHJhY3R8ZW58MHx8fHwxNzYzNDk1NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance abstract"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">31 pruebas automatizadas aprobadas</title>
+<desc id="desc">Validación local del 15 de septiembre de 2026: 19 pruebas unitarias, 8 de integración y 4 recorridos de navegador. Compilación, TypeScript y ESLint aprobados.</desc>
+<defs><linearGradient id="validation-bg" x2="1" y2="1"><stop stop-color="#0b2334"/><stop offset="1" stop-color="#145346"/></linearGradient></defs>
+<rect width="1200" height="320" rx="24" fill="url(#validation-bg)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<circle cx="67" cy="59" r="20" fill="#70efbd"/><path d="m58 59 6 6 12-13" stroke="#153b32" stroke-width="3" fill="none"/>
+<text x="101" y="66" fill="#e6fff3" font-size="23" font-weight="700">Calidad respaldada por pruebas</text>
+<text x="47" y="162" fill="#70efbd" font-size="80" font-weight="700">31</text><text x="163" y="127" fill="#fff" font-size="21" font-weight="600">pruebas automatizadas</text><text x="163" y="158" fill="#fff" font-size="21" font-weight="600">aprobadas</text>
+<path d="M465 106V207" stroke="#498274"/>
+<g font-size="47" font-weight="700" fill="#fff" text-anchor="middle"><text x="584" y="155">19</text><text x="801" y="155">8</text><text x="1018" y="155">4</text></g>
+<g font-size="17" fill="#b9dbd2" text-anchor="middle"><text x="584" y="191">Unitarias</text><text x="801" y="191">Integración</text><text x="1018" y="191">Navegador</text></g>
+<rect x="47" y="231" width="1106" height="1" fill="#498274"/>
+<text x="47" y="268" fill="#e6fff3" font-size="16">Build aprobado · TypeScript aprobado · ESLint aprobado</text>
+<text x="47" y="295" fill="#a9cec3" font-size="13">Ejecución local documentada: 15 sep 2026 · Integración con emuladores · IA y correo simulados</text>
+</g></svg>

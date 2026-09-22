@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">De tus documentos a una conversación financiera más clara</title>
+<desc id="desc">Tres pasos: reúne tus datos, comprende los indicadores y comparte reportes PDF y Excel.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f0faf7"/><stop offset="1" stop-color="#edf4ff"/></linearGradient></defs>
+<rect width="1200" height="350" rx="24" fill="url(#bg)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="40" y="50" fill="#123346" font-size="24" font-weight="700">Del primer dato al reporte que necesitas.</text>
+<text x="40" y="81" fill="#516979" font-size="16">Un recorrido pensado para organizar, interpretar y presentar tus números.</text>
+<g fill="#fff" stroke="#d1e4e7"><rect x="40" y="116" width="352" height="194" rx="18"/><rect x="424" y="116" width="352" height="194" rx="18"/><rect x="808" y="116" width="352" height="194" rx="18"/></g>
+<g fill="#157d68"><circle cx="78" cy="154" r="19"/><circle cx="462" cy="154" r="19"/><circle cx="846" cy="154" r="19"/></g>
+<g fill="#fff" font-size="17" font-weight="700" text-anchor="middle"><text x="78" y="160">1</text><text x="462" y="160">2</text><text x="846" y="160">3</text></g>
+<g fill="#123346" font-size="23" font-weight="700"><text x="64" y="208">Reúne tus datos</text><text x="448" y="208">Encuentra claridad</text><text x="832" y="208">Comparte tu análisis</text></g>
+<g fill="#516979" font-size="16"><text x="64" y="242">Captura manual, Excel, CSV o foto.</text><text x="64" y="268">Tu catálogo. Tus dos periodos.</text><text x="448" y="242">Indicadores y comparaciones.</text><text x="448" y="268">Una explicación asistida por IA.</text><text x="832" y="242">PDF para presentar.</text><text x="832" y="268">Excel para seguir trabajando.</text></g>
+<g stroke="#157d68" stroke-width="2" fill="none"><path d="M399 216h16m-6-6 6 6-6 6M783 216h16m-6-6 6 6-6 6"/></g>
+</g></svg>
