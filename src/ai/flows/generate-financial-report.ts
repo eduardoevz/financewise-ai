@@ -1,4 +1,4 @@
-'use server';
+﻿'use server';
 
 /**
  * @fileOverview A flow for generating structured financial reports with fallback resilience.
@@ -210,11 +210,9 @@ Genera la respuesta estrictamente en el formato JSON requerido.`,
 });
 
 const candidateModels = [
+  'googleai/gemini-3.6-flash',
   'googleai/gemini-2.5-flash',
-  'googleai/gemini-2.0-flash',
-  'googleai/gemini-1.5-flash',
-  'googleai/gemini-1.5-pro',
-  'googleai/gemini-2.5-pro',
+  'googleai/gemini-3.1-pro-preview',
 ];
 
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
